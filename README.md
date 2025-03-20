@@ -1,6 +1,5 @@
 # Elearning Dashboard
 
-## s
 
 - **Build the project**: `npm run build`
 - **Preview the production build**: `npm run preview`
